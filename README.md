@@ -30,7 +30,7 @@
 <br>
  
 ## ✏ **Studying**
-[Interview](https://github.com/Step-By-Step-Study-Group/Tech-Interview-Study)|[Database](https://github.com/seunGit/Database-Study)|[Algorism](https://github.com/seunGit/Algorism-Study)
+[Interview](https://github.com/Step-By-Step-Study-Group/Tech-Interview-Study)|[SQL](https://github.com/seunGit/Database-Study)|[Algorism](https://github.com/seunGit/Algorism-Study)
 --|--|--
 2023.03.06 ~ ing|2023.03.06 ~ ing|2023.03.06 ~ ing
 
