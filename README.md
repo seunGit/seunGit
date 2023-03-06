@@ -11,7 +11,7 @@
 ## 🌐 **Link**
 - [To do List](https://github.com/users/seunGit/projects/1)
 - [TIL](https://github.com/seunGit/TIL-TodayILearned)
-- [GitBlog](https://seungit.github.io/) 
+- [TechBlog](https://seungit.oopy.io/) 
 
   
 ## 🔥 **Skills**
