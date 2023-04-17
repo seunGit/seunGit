@@ -7,6 +7,7 @@
 - 안녕하세요! 백엔드 개발자를 꿈꾸는 민승기 입니다.
 - 기록과 문서화, 지식 나눔을 좋아합니다.
 - 1일 1커밋 1일 1커피를 즐깁니다.
+- 
 
 ## 🌐 **Link**
 - [To do List](https://github.com/users/seunGit/projects/1)
