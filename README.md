@@ -34,9 +34,9 @@ Techs that I've used at least once
 <h3 align="center">🌱 About Me 🌱</h3> 
 
 <p align="center">
-  <a href="https://seungit.oopy.io/b1528f4f-731c-4164-ac0f-324d67d11894" target="_blank"><img src="https://img.shields.io/badge/Résumé-f08080?style=flat-round&logo=Read-the-Docs&logoColor=white&link=https://seungit.oopy.io/b1528f4f-731c-4164-ac0f-324d67d11894"/>
-  <a href="https://seungit.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/>
-  <a href="mailto:minsg3669@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:minsg3669@gmail.com"/>
+  <a href="https://seungit.oopy.io/b1528f4f-731c-4164-ac0f-324d67d11894" target="_blank"><img src="https://img.shields.io/badge/Résumé-f08080?style=flat-round&logo=Read-the-Docs&logoColor=white&link=https://seungit.oopy.io/b1528f4f-731c-4164-ac0f-324d67d11894"/></a>
+  <a href="https://seungit.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/></a>
+  <a href="mailto:minsg3669@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:minsg3669@gmail.com"/></a>
 </p>
   </div>
 
