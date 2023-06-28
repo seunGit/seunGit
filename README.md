@@ -7,8 +7,7 @@
 
 <div align="center">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungit&layout=compact&theme=dracula)](https://github.com/seungit)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunGit&layout=compact)](https://github.com/seunGit/github-readme-stats)
 
  <h3 align="center">🛠 Teck Stack 🛠</h3> 
 Techs that I've used at least once
